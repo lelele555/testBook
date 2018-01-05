@@ -1,8 +1,6 @@
 # Summary
 
-## PP
-
-* [Introduction](README.md)
+[Introduction](README.md)
 
 ## PartOne
 
